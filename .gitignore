@@ -18,10 +18,4 @@ build-Algorithms-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/
 Algorithms/*
 !Algorithms/main.cpp
 !Algorithms/Algorithms.pro
-=======
-/Algorithms/build/
-/Algorithms/dist/
-/Algorithms/nbproject
-/Algorithms/.dep.inc
-/build*
->>>>>>> 5e57c0c45da62b6098d36ae68d41037be2ad99e2
+
